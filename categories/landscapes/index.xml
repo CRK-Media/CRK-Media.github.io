@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landscapes on CRK Media</title>
+    <link>https://CRK-Media.github.io/categories/landscapes/</link>
+    <description>Recent content in Landscapes on CRK Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://CRK-Media.github.io/categories/landscapes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Landscapes</title>
+      <link>https://CRK-Media.github.io/landscapes/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://CRK-Media.github.io/landscapes/</guid><media:content url="https://CRK-Media.github.io/landscapes/NORJA_20223_Casimir-Kuusela_@casimir.kuusela-2_hu_ed703f3474342a18.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://CRK-Media.github.io/landscapes/NORJA_20223_Casimir-Kuusela_@casimir.kuusela-2_hu_ed703f3474342a18.jpg&quot; /&gt;
+          &lt;p&gt;This is my lanscape work.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

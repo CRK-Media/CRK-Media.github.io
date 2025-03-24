@@ -5,6 +5,22 @@
     <link>https://CRK-Media.github.io/categories/</link>
     <description>Recent content in Categories on CRK Media</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://CRK-Media.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://CRK-Media.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concerts</title>
+      <link>https://CRK-Media.github.io/categories/concerts/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://CRK-Media.github.io/categories/concerts/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Events</title>
+      <link>https://CRK-Media.github.io/categories/events/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://CRK-Media.github.io/categories/events/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Landscapes</title>
+      <link>https://CRK-Media.github.io/categories/landscapes/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://CRK-Media.github.io/categories/landscapes/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

@@ -2,36 +2,54 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CRK Media</title>
-    <link>https://CRK-Media.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on CRK Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://CRK-Media.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Landscapes</title>
-      <link>https://CRK-Media.github.io/landscapes/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://CRK-Media.github.io/landscapes/</guid><media:content url="https://CRK-Media.github.io/landscapes/NORJA_20223_Casimir-Kuusela_@casimir.kuusela-2_hu_ed703f3474342a18.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://CRK-Media.github.io/landscapes/NORJA_20223_Casimir-Kuusela_@casimir.kuusela-2_hu_ed703f3474342a18.jpg&quot; /&gt;
-          &lt;p&gt;This is my lanscape work.&lt;/p&gt;
-        </description></item>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events</title>
-      <link>https://CRK-Media.github.io/events/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://CRK-Media.github.io/events/</guid><media:content url="https://CRK-Media.github.io/events/IGDA20v_Casimir_Kuusela_@casimir.kuusela--4_hu_e545dcee7a344ba9.jpg" type="image/jpeg"/>
+      <link>http://localhost:1313/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/</guid><media:content url="http://localhost:1313/events/IGDA20v_Casimir_Kuusela_@casimir.kuusela--4_hu_e545dcee7a344ba9.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://CRK-Media.github.io/events/IGDA20v_Casimir_Kuusela_@casimir.kuusela--4_hu_e545dcee7a344ba9.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/events/IGDA20v_Casimir_Kuusela_@casimir.kuusela--4_hu_e545dcee7a344ba9.jpg&quot; /&gt;
           &lt;p&gt;This is my event work.&lt;/p&gt;
         </description></item>
     <item>
-      <title>Concerts</title>
-      <link>https://CRK-Media.github.io/concerts/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://CRK-Media.github.io/concerts/</guid><media:content url="https://CRK-Media.github.io/concerts/IGDA_12_20223_Casimir-Kuusela_@casimir.kuusela-3397_hu_d9c1225ccbba9bac.jpg" type="image/jpeg"/>
+      <title>Landscapes</title>
+      <link>http://localhost:1313/landscapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/landscapes/</guid><media:content url="http://localhost:1313/landscapes/CAS_6419_hu_70e60c7ca9aad4f2.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://CRK-Media.github.io/concerts/IGDA_12_20223_Casimir-Kuusela_@casimir.kuusela-3397_hu_d9c1225ccbba9bac.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/landscapes/CAS_6419_hu_70e60c7ca9aad4f2.jpg&quot; /&gt;
+          &lt;p&gt;This is my lanscape work.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Street</title>
+      <link>http://localhost:1313/street/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/street/</guid><media:content url="http://localhost:1313/street/LuxStreet2022_Casimir_Kuusela_@cas.ck-8250_hu_964961dcb2c3bf41.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/street/LuxStreet2022_Casimir_Kuusela_@cas.ck-8250_hu_964961dcb2c3bf41.jpg&quot; /&gt;
+          &lt;p&gt;This is my street photography work.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Portraits</title>
+      <link>http://localhost:1313/portraits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portraits/</guid><media:content url="http://localhost:1313/portraits/CAS_5980_hu_5789922944222467.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/portraits/CAS_5980_hu_5789922944222467.jpg&quot; /&gt;
+          &lt;p&gt;This is my portrait work.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Concerts</title>
+      <link>http://localhost:1313/concerts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/concerts/</guid><media:content url="http://localhost:1313/concerts/Lepakkomies_Jacques_Casimir_Kuusela_@casimir.kuusela-5539_hu_e9765e1577d511b9.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/concerts/Lepakkomies_Jacques_Casimir_Kuusela_@casimir.kuusela-5539_hu_e9765e1577d511b9.jpg&quot; /&gt;
           &lt;p&gt;This is my concert work.&lt;/p&gt;
         </description></item>
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street on CRK Media</title>
+    <link>http://localhost:1313/categories/street/</link>
+    <description>Recent content in Street on CRK Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/street/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Street</title>
+      <link>http://localhost:1313/street/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/street/</guid><media:content url="http://localhost:1313/street/LuxStreet2022_Casimir_Kuusela_@cas.ck-8250_hu_964961dcb2c3bf41.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/street/LuxStreet2022_Casimir_Kuusela_@cas.ck-8250_hu_964961dcb2c3bf41.jpg&quot; /&gt;
+          &lt;p&gt;This is my street photography work.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

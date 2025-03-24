@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concerts on CRK Media</title>
-    <link>https://CRK-Media.github.io/categories/concerts/</link>
+    <link>http://localhost:1313/categories/concerts/</link>
     <description>Recent content in Concerts on CRK Media</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://CRK-Media.github.io/categories/concerts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/concerts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concerts</title>
-      <link>https://CRK-Media.github.io/concerts/</link>
+      <link>http://localhost:1313/concerts/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://CRK-Media.github.io/concerts/</guid><media:content url="https://CRK-Media.github.io/concerts/IGDA_12_20223_Casimir-Kuusela_@casimir.kuusela-3397_hu_d9c1225ccbba9bac.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/concerts/</guid><media:content url="http://localhost:1313/concerts/IGDA_12_20223_Casimir-Kuusela_@casimir.kuusela-3397_hu_d9c1225ccbba9bac.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://CRK-Media.github.io/concerts/IGDA_12_20223_Casimir-Kuusela_@casimir.kuusela-3397_hu_d9c1225ccbba9bac.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/concerts/IGDA_12_20223_Casimir-Kuusela_@casimir.kuusela-3397_hu_d9c1225ccbba9bac.jpg&quot; /&gt;
           &lt;p&gt;This is my concert work.&lt;/p&gt;
         </description></item>
   </channel>
